@@ -2,22 +2,22 @@
   "fields": {
     "user": "Användare",
     "ipAddress": "IP Address",
-    "lastAccess": "Last Access Date",
-    "createdAt": "Login Date",
-    "isActive": "Is Active",
+    "lastAccess": "Datum senast använd",
+    "createdAt": "Datum senast inloggad",
+    "isActive": "Aktiv",
     "portal": "Portal"
   },
   "links": {
-    "actionHistoryRecords": "Action History"
+    "actionHistoryRecords": "Historik"
   },
   "presetFilters": {
-    "active": "Active",
-    "inactive": "Inactive"
+    "active": "Aktiv",
+    "inactive": "Inaktiv"
   },
   "labels": {
-    "Set Inactive": "Set Inactive"
+    "Set Inactive": "Sätt inaktiv"
   },
   "massActions": {
-    "setInactive": "Set Inactive"
+    "setInactive": "Sätt aktiv"
   }
 }
