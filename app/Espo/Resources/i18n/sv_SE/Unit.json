@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "name": "Namn",
+    "description": "Benämning",
+    "measure": "Mått",
+    "isDefault": "Förvalt",
+    "multiplier": "Multiplikator",
+    "convertTo": "Konvertera till"
+  },
+  "links": {
+    "measure": "Mått",
+    "convertTo": "Konvertera till"
+  },
+  "labels": {
+    "Create Unit": "Skapa enhet"
+  },
+  "exceptions": {
+    "defaultIsRequired": "Måttet måste ha en förvald enhet.",
+    "newUnitCanNotBeDefault": "Enheten som lagts till kan inte vara förvald.",
+    "isUsedUnit": "Denna enhet används i en annan lokation eller konvertering."
+  }
+}
